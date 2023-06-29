@@ -1,7 +1,7 @@
 # ⭐Alfood
 
 # 💻 Descrição
- API para um sistema de controle de alunos e turmas de uma escola de inglês. 
+Este projeto consiste em transformar um site estático em um CMS (Sistema de Gerenciamento de Conteúdo) com uma área administrativa. O objetivo é permitir que o usuário possa cadastrar novos restaurantes, adicionar pratos e remover restaurantes antigos de forma dinâmica. Utilizaremos a biblioteca Axios para realizar as requisições HTTP necessárias, incluindo manipulação de imagens. Com essa funcionalidade, eliminamos a necessidade de um desenvolvedor para atualizar o site, proporcionando uma solução completa ao usuário.
 
 
 # 🐛 Encontrou um problema?
